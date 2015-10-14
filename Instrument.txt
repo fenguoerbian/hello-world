@@ -1,0 +1,12 @@
+This file contains some command line memo for Git.
+For more details please refer to the git book: progit-en.866.pdf
+
+1. git status: check the status of the current resposity.
+
+2. git add <filename>: Track/Modify the files so that it could be committed
+
+3. git commit -m "commit description" : commit the changes to the current resposity.
+
+4. git push <remote name> <local name>: upload and merge the local respo to remote respo.
+
+4. git pull <remote name>: fetch from and integrate with another remote respo or local branch.
