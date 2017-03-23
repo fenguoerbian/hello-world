@@ -10,4 +10,5 @@ Again I'm trying to use github after dropping it for more than 1 year. Now I'm t
 * Markdown/rmarkdown/github markdown
 * github pages/jekyll
 * coding in R/Matlab/C/python
+* Try to make some contributions to the projects I'm interested in.
 Hope I can pull them off.
